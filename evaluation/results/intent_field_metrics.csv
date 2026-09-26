@@ -1,0 +1,6 @@
+metric,value,tests
+Category Accuracy,0.9444444444444444,18
+Intent Field Accuracy,1.0,18
+Price Accuracy,1.0,18
+Preference Recall,1.0,18
+Strict Intent Accuracy,0.9444444444444444,18

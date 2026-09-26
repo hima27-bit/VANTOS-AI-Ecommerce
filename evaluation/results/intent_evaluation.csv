@@ -1,0 +1,19 @@
+query_id,query,expected_intent,actual_intent,expected_category,actual_category,expected_max_price,actual_max_price,expected_preferences,actual_preferences,correct
+Q01,lightweight laptop for software development under 50000,purchase,purchase,laptops,laptops,50000.0,50000.0,lightweight;software development,lightweight;for software development;software development,1
+Q02,developer laptop for programming under 80000,purchase,purchase,laptops,laptops,80000.0,80000.0,developer;programming,for programming;developer;programming,1
+Q03,student laptop for college under 60000,purchase,purchase,laptops,laptops,60000.0,60000.0,student;college,student;college,1
+Q04,gaming laptop for performance under 100000,purchase,purchase,laptops,laptops,100000.0,100000.0,gaming;performance,performance;gaming,1
+Q05,premium laptop for productivity,purchase,purchase,laptops,laptops,,,premium;productivity,premium;productivity,1
+Q06,best camera phone under 25000,purchase,purchase,mobiles,mobiles,25000.0,25000.0,camera,camera,1
+Q07,gaming smartphone under 30000,purchase,purchase,mobiles,mobiles,30000.0,30000.0,gaming,gaming,1
+Q08,phone for photography around 50000,purchase,purchase,mobiles,mobiles,50000.0,50000.0,photography,photography,1
+Q09,battery focused phone for travel under 20000,purchase,purchase,mobiles,mobiles,20000.0,20000.0,battery;travel,battery focused;battery;travel,1
+Q10,blue formal shirt for office,purchase,purchase,fashion,fashion,,,blue;formal;office,blue;formal;office,1
+Q11,black casual shirt for everyday use,purchase,purchase,fashion,fashion,,,black;casual;everyday,black;casual;everyday use;everyday,1
+Q12,running shoes for fitness under 5000,purchase,purchase,shoes,shoes,5000.0,5000.0,running;fitness,fitness;running,1
+Q13,formal shoes for office under 6000,purchase,purchase,shoes,shoes,6000.0,6000.0,formal;office,formal;office,1
+Q14,waterproof laptop bag for office,purchase,purchase,accessories,accessories,,,waterproof;laptop bag;office,waterproof;for office;office;laptop bag,1
+Q15,power bank for travel under 3000,purchase,purchase,accessories,accessories,3000.0,3000.0,power bank;travel,travel;power bank,1
+Q16,USB C cable for charging under 1500,purchase,purchase,accessories,electronics,1500.0,1500.0,USB C;charging,USB C cable;for charging;USB C;charging,0
+Q17,smart home electronics for office under 25000,purchase,purchase,electronics,electronics,25000.0,25000.0,smart home;office,smart home;office,1
+Q18,digital camera for photography under 100000,purchase,purchase,electronics,electronics,100000.0,100000.0,digital camera;photography,photography;camera;digital camera,1

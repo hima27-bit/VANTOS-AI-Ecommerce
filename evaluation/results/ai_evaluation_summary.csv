@@ -1,0 +1,4 @@
+metric,value,tests
+Intent Accuracy,0.9444444444444444,18
+Groundedness Rate,1.0,6
+Hallucination Rate,0.0,6

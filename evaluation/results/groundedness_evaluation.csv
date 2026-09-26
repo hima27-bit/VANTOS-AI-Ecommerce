@@ -1,0 +1,7 @@
+test_id,query,retrieval_query,context_product_id,answer,grounded
+G01,What is the main camera resolution of this smartphone?,camera focused smartphone,MOB015,The main camera resolution of the Zenbyte Camera Focused Phone 015 is 64MP.,1
+G02,What is the battery capacity of the retrieved smartphone?,battery focused phone,MOB018,The battery capacity of the retrieved smartphone is 6000mAh.,1
+G03,What is the price of the retrieved power bank?,power bank for travel,ACC075,The price of the retrieved power bank is 1500.0.,1
+G04,What type of connector does the retrieved cable use?,USB C cable,ACC090,The Aureon Cable 090 uses a USB-C connector.,1
+G05,What is the weight of the retrieved developer laptop?,developer laptop for programming,LAP037,The weight of the Novatek Developer Laptop 037 is 1.7 kg.,1
+G06,What material is used in the retrieved formal shoes?,formal shoes for office,SHO053,The material used in the retrieved formal shoes is canvas.,1

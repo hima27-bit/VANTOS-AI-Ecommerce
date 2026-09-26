@@ -1,0 +1,2 @@
+model,size_b,status,intent_accuracy,groundedness_rate,hallucination_rate,avg_latency_ms,p95_latency_ms,memory_mb,model_path,notes
+Qwen3-4B,4.0,BENCHMARKED,0.9444,1.0,0.0,2208.03,3178.76,,,Same benchmark cases are used for every model.

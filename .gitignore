@@ -1,0 +1,66 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ==============================
+# Environment / secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Qdrant / generated vector data
+# ==============================
+qdrant_data/
+
+# ==============================
+# Local AI models
+# ==============================
+models/*.gguf
+models/*.bin
+models/*.safetensors
+
+# ==============================
+# Node / React
+# ==============================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ==============================
+# Logs
+# ==============================
+*.log
+logs/
+
+# ==============================
+# OS / Editor
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ==============================
+# Temporary files
+# ==============================
+*.tmp
+*.temp
+*.bak
